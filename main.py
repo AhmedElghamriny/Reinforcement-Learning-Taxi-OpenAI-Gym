@@ -1,6 +1,7 @@
 import numpy as np
 import gym
 import random
+import pygame
 
 env = gym.make('Taxi-v3')
 
